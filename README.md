@@ -2,13 +2,13 @@
 <img src="/Images/Main.png">
 
 
-### Savings Scheme
+### 💰 Savings Scheme
 A common savings scheme allows you to deposit a set amount each month for the period of your choosing.
 
-### Gifting Scheme
+### 🎁 Gifting Scheme
 A gifting scheme where people gather in person or online to be recruited, and the recruiter receives money or gifts.
 
-### Gold Loan
+### 🪙 Gold Loan
 Gold loan (also called loan against gold) is a secured loan taken by the borrower.
 
 ---
