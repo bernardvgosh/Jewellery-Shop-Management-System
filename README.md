@@ -1,5 +1,5 @@
 # 💍 **Jewelry Shop Management System** ✨
-
+<img src="/Images/Main.png">
 
 
 ### Savings Scheme
